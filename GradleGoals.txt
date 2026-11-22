@@ -1,0 +1,6 @@
+Textfilen måste innehålla alla Gradle kommondon som du har använt och en förklaring av vad var och en av dem gör.
+1. gradle build för att kompilera java klasserna, paketera kod och producera en körbar jar fil.
+2. gradle run för att köra från main klassen.
+2. gradle clean för att ta bort alla klass filerna (och hela build map)
+3. gradle test för att köra junit testerna.
+5. gradle javadoc för att skapa javadoc.
