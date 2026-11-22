@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="models.BookCatalogTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-22T13:57:10.718Z" hostname="Pooris-MacBook-Pro.local" time="0.033">
+  <properties/>
+  <testcase name="testAddABook()" classname="models.BookCatalogTest" time="0.006"/>
+  <testcase name="testFindBook()" classname="models.BookCatalogTest" time="0.002"/>
+  <testcase name="testFindBookIgnoringCase()" classname="models.BookCatalogTest" time="0.0"/>
+  <testcase name="[1] &quot;Learning Java&quot;" classname="models.BookCatalogTest" time="0.002"/>
+  <testcase name="[2] &quot;learning java&quot;" classname="models.BookCatalogTest" time="0.0"/>
+  <testcase name="[3] &quot;LEARNING JAVA&quot;" classname="models.BookCatalogTest" time="0.0"/>
+  <testcase name="shouldThrowExceptionWhenCatalogIsEmpty()" classname="models.BookCatalogTest" time="0.001"/>
+  <testcase name="testFindBookWithExtraSpaces()" classname="models.BookCatalogTest" time="0.0"/>
+  <testcase name="testFindBookThatDoesntExist()" classname="models.BookCatalogTest" time="0.0"/>
+  <system-out><![CDATA[BookNotFoundException thrown
+BookNotFoundException thrown
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

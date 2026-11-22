@@ -1,0 +1,17 @@
+-classpath '/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/build/classes/java/main:/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/build/resources/main'
+-quiet 
+-d '/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/build/docs/javadoc'
+-windowtitle 'library 1.0-SNAPSHOT API'
+-doctitle 'library 1.0-SNAPSHOT API'
+-notimestamp 
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/ui/Main.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/models/BookNotFoundException.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/models/Material.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/models/LoanNotFoundException.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/models/Customer.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/models/LoanAlreadyExistsException.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/models/Loan.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/models/BookCatalog.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/models/Book.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/utilities/LoanStatus.java'
+'/Users/poori/Documents/Yrgo/Utvecklingsverktyg/Assignments/Inlämningsuppgift2/GradleProject/library/src/main/java/utilities/GenderType.java'

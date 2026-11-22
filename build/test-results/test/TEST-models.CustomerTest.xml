@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="models.CustomerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-22T13:57:10.754Z" hostname="Pooris-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="testGetMailingName()" classname="models.CustomerTest" time="0.001"/>
+  <testcase name="testGetGender()" classname="models.CustomerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
